@@ -1,0 +1,28 @@
+# Vault Lite — Lattice Canonical Glossary
+# Liminal Institute | @liminaljermo
+
+> Public access layer for the Lattice framework — a perception generation
+> and constraint navigation architecture.
+
+## Core
+
+- README: https://github.com/kushkillerjsixx66/vault-lite/blob/main/README.md
+- Glossary: https://github.com/kushkillerjsixx66/vault-lite/blob/main/lattice_canonical_glossary.md
+- Live site: https://vaultlite-jet.vercel.app
+
+## Canonical Vault
+
+- Full architecture: https://github.com/kushkillerjsixx66/canonical-vault
+
+## Key Terms
+
+Lattice, IDE, CCE, CFC, Governance Envelope, Lineage Chain, Invariants,
+Operator Playbook, AMP, Reversibility Boundary, Module Handoff Contract,
+Vara Scan, Vault Chain, Field Constitution, Cognitive Operator, Neurslese,
+Stumpy, Bilateral Protocols, Specialization Layer, Drift Detection,
+Semantic Anchor, Embedding Cluster, Retrieval Surface
+
+## Tags
+
+#TheLattice #LiminalInstitute #CognitiveOperator #Vara #Neurslese
+#GovernanceEnvelope #ReversibilityBoundary #VaraScan #VaultChain
