@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lexicon-dusky.vercel.app/sitemap.xml
